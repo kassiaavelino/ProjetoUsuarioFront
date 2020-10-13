@@ -1,0 +1,41 @@
+.usuario-info {
+    max-width: 700px;
+    height: 400px;
+    margin: 80px auto 55px;
+    padding: 25px;
+    background: rgba(173, 173, 173, 0.849);;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+ 
+.usuario-info h1 {
+    font-size: 18px;
+    color: #000;
+    line-height: 24px;
+    margin-top: 10px;
+}
+.usuario-info h5{
+    font-size: 24px;
+    font-weight: bold;
+}
+.media{
+    border: 1px solid gray;
+    padding:20px 80px;
+    background: rgb(235, 233, 233);
+    border-radius: 5px;
+    height: 85%;
+    align-items: center;
+}
+
+.media-body{
+    padding: 20px 10px;
+}
+.btn-group{
+    margin-left: 62%;  
+}
+.btn-group a{
+    color:#fff;
+}
+.btn-group a:hover{
+    text-decoration: none;
+}

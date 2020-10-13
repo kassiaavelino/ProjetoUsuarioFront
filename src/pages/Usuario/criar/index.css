@@ -1,0 +1,40 @@
+.title{
+    font-size: 24px;
+    color:#fff;
+    font-weight: bold;
+    text-align: center;
+    margin: 40px 0;
+    border: 1px solid #ddd;
+}
+
+.usuario-insert input{
+    background: aliceblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: dimgray;
+
+}
+ 
+.usuario-insert label{
+    font-size: 18px;
+    color:#fff;
+    font-weight: bold;
+}
+
+.lbl-input{
+    width:10%
+}
+.form{
+    margin: 19px 50px 0 50px;
+    padding: 40px 0 60px;
+}
+.btn-group2 a{
+    color:#fff;
+}
+.btn-group2 a:hover{
+    text-decoration: none;
+}

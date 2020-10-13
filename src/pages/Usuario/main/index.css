@@ -1,0 +1,57 @@
+.usuario-list{
+    margin: 15px auto 4px;
+    margin-top: 40px;
+    padding: 0 20px 0 25px;
+    width: 100%;
+    
+}
+ 
+.usuario-list article{    
+    background: rgba(173, 173, 173, 0.849);
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 25px;
+    margin: 10px;
+    display: inline-flex;
+}
+ 
+.usuario-list article p{
+    font-size: 16px;
+    color: dimgray;
+    margin-top: 5px;
+    line-height: 24px;
+}
+ 
+.usuario-list article a{
+    height: 42px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background: none;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+ 
+.usuario-list article a:hover{
+    background: rgb(0,0,0, 0.4);
+    color: #fff;
+}
+.card-body h5 {
+    margin: 5px;
+    font-size: 18px;
+    border: none;
+    color:#000;
+    text-align: left;
+}
+.card-text {
+    padding-left: 5px;
+}
+button.btn.btn-secondary{
+     margin-left: 12px;
+ }
